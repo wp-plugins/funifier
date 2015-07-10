@@ -1,0 +1,33 @@
+<style type="text/css">
+    .funifier-div{
+        padding-top: 10px;
+        padding-right: 10px;
+        padding-left: 10px;
+        background-color: #D5D5D5;
+    }
+    .title-funifier {
+        background-color: #252527;
+        font-size: 20px;
+        padding: 10px 25px;
+    }
+    .form-table {
+        margin-top: 0px;
+        border-collapse: separate !important;
+        border-spacing: 0px 10px !important;
+    }
+    .funifier-tr {
+        background-color: #DFDFDF !important;
+    }
+    .funifier-th {
+        font-size: 16px !important;
+        font-weight: 100;
+        width: 170px;
+        height: 40px;
+        text-align: right;
+    }
+    .funifier-input {
+        padding: 8px !important;
+        border: 1px solid #999 !important;
+        color: #555 !important;
+    }
+</style>
