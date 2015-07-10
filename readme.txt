@@ -13,7 +13,7 @@ The Funifier plugin was created to integrate with gamification system of the com
 
 == Description ==
 
-To learn more about how gamificar your site, visit www.funifier.com!
+To learn more about how gamification your site, visit www.funifier.com!
 
 == Installation ==
 
