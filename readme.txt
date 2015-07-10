@@ -9,7 +9,7 @@ Requires at least: 2.7
 Tested up to: 3.0.1
 Stable tag: trunk
 
-O plugin do Funifier foi criado para integração com o sistema de gamificação da empresa.
+The Funifier plugin was created to integrate with gamification system of the company.
 
 == Description ==
 
