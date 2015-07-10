@@ -1,7 +1,7 @@
 === Funifier ===
 Plugin Name: Funifier
 Plugin URI: http://www.funifier.com
-Description: O plugin do Funifier foi criado para integração com o sistema de gamificação da empresa.
+Description: The Funifier plugin is designed for integration with enterprise gamification system.
 Contributors: jeffersonassilva, Caio Lucena
 Tags: admin, javascript, gamification, funifier
 Version: 1.0
@@ -17,9 +17,9 @@ Para conhecer mais sobre como gamificar seu site, acesse o site www.funifier.com
 
 == Installation ==
 
-1. Faça o upload do arquivo funifer.zip no menu Plugins -> Adicionar Novo;
-2. Ative o plugin após a instalação;
-3. Edite o contúdo do HTML em Configurações -> Funifier
+1. Upload the funifer.zip file in Plugins menu -> Add new;
+2. Activate the plugin after installation;
+3. Edit the HTML content in Settings -> Funifier.
 
 == Frequently Asked Questions ==
 
