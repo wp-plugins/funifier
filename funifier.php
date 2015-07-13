@@ -3,9 +3,9 @@
 Plugin Name: Funifier
 Plugin URI: http://www.funifier.com
 Description: O plugin do Funifier foi criado para integração com o sistema de gamificação da empresa.
-Author: Jefferson Alessandro
+Author: jeffersonassilva
 Author URI: https://plus.google.com/+jeffalessandro/about
-Contributors: Caio Lucena
+Contributors: jeffersonassilva, caioflucena
 Tags: admin, javascript, gamification, funifier
 Version: 1.0
 */
